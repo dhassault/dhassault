@@ -1,5 +1,5 @@
 ### Hi, I'm Yann!
-🙇‍♂️ I'm Machine Learning Engineer🤖 in Tokyo🗼🇯 and co-founder of [zeteoh](https://www.zeteoh.com/en-about-us/) 🇵
+🙇‍♂️ I'm Machine Learning Engineer🤖 in Tokyo🗼🇯🇵 and co-founder of [zeteoh](https://www.zeteoh.com/en-about-us/) 🇵
 
 💎 zeteoh's mission is bringing intelligence🧠 to IoTs🤳🏾 and microcontrollers🐞 to make our environment smarter ✅ 
 
