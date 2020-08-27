@@ -14,9 +14,9 @@
 
 | Blog Articles        | Research Notes          | zeteoh insight  |
 | ------------- |:-------------:| :-----:|
-| [20/04/26] [Semantic Segmentation with tf.data in TensorFlow 2 and ADE20K dataset](https://yann-leguilly.gitlab.io/post/2019-12-14-tensorflow-tfdata-segmentation/)      | [20/08/19] [NASCaps: A Framework for Neural Architecture Search to Optimize the Accuracy and Hardware Efficiency of Convolutional Capsule Networks](https://gitlab.com/zeteoh/ai-research-notes/-/issues/1) | [20/08/18] [ユーザーエンゲージメントを高めるには？ゲーミフィケーションの活用と4つの注意点](https://www.zeteoh.com/1-2/) |
-| [20/01/21] [[Notes] nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation (Sep 2018)](https://yann-leguilly.gitlab.io/post/2020-01-21-nnunet/)      |  [20/08/17] [Hopfield Networks is all you need](https://twitter.com/zeteoh_ai/status/1295329582325825538)   |    |
-| [20/03/02] [[Notes] Multi-task Self-Supervised Visual Learning (Aug 2017)](https://yann-leguilly.gitlab.io/post/2020-03-02-ssl1/) |  [20/08/03][ Predicting What You Already Know Helps: Provable Self-Supervised Learning](https://gitlab.com/zeteoh/ai-research-notes/-/issues/2)    |     |
+|  [20/08/25] [Coursera Specialization "Architecting with Google Compute Engine"](https://yann-leguilly.gitlab.io/post/2020-08-24-coursera-specialization-architecting-with-gce/)     | [20/08/20] [DeepGMR: Learning Latent Gaussian Mixture Models for Registration](https://gitlab.com/zeteoh/ai-research-notes/-/issues/3) | [20/08/18] [ユーザーエンゲージメントを高めるには？ゲーミフィケーションの活用と4つの注意点](https://www.zeteoh.com/1-2/) |
+| [20/01/21] [[Notes] nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation (Sep 2018)](https://yann-leguilly.gitlab.io/post/2020-01-21-nnunet/)      |  [20/08/19] [NASCaps: A Framework for Neural Architecture Search to Optimize the Accuracy and Hardware Efficiency of Convolutional Capsule Networks](https://gitlab.com/zeteoh/ai-research-notes/-/issues/1)   |    |
+| [20/04/26] [Semantic Segmentation with tf.data in TensorFlow 2 and ADE20K dataset](https://yann-leguilly.gitlab.io/post/2019-12-14-tensorflow-tfdata-segmentation/) |  [20/08/03][ Predicting What You Already Know Helps: Provable Self-Supervised Learning](https://gitlab.com/zeteoh/ai-research-notes/-/issues/2)    |     |
 
 <!--
 **dhassault/dhassault** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
