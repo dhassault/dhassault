@@ -1,7 +1,7 @@
 ### Hi, I'm Yann!
-🙇‍♂️ I'm Machine Learning Engineer🤖 in Tokyo🗼🇯🇵 and co-founder of [zeteoh](https://www.zeteoh.com/en-about-us/) 🇵
+🙇‍♂️ I'm Machine Learning Engineer🤖 in Tokyo🗼🇯🇵 and co-founder of [zeteoh](https://www.zeteoh.com/en-about-us/) ✅
 
-💎 zeteoh's mission is bringing intelligence🧠 to IoTs🤳🏾 and microcontrollers🐞 to make our environment smarter ✅ 
+💎 Our mission is to push AI to edge in order to make our environments and infrastructures smarter, safer and more efficient.  
 
 👉 Our first product, **zeteoh mobile sdk**[[ENG](https://www.zeteoh.com/en/) /[JPN](https://www.zeteoh.com/)] aims to enable **mobile game developers** 👩‍💻 to use **daily physical activities**🚵🏼‍♂️ in their games🕹 to increase their **users engagement**🏆. For that, it uses a tiny deep learning model directly deployed on user's smartphones that is able to recognize various types of physical activities with a high accuracy. 
 
