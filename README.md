@@ -14,7 +14,7 @@
 
 | Blog Articles        | Research Notes          | zeteoh insight  |
 | ------------- |:-------------:| :-----:|
-|  [20/08/25] [Coursera Specialization "Architecting with Google Compute Engine"](https://yann-leguilly.gitlab.io/post/2020-08-24-coursera-specialization-architecting-with-gce/)     | [20/08/20] [DeepGMR: Learning Latent Gaussian Mixture Models for Registration](https://gitlab.com/zeteoh/ai-research-notes/-/issues/3) | [20/08/18] [ゲーミフィケーション成功の鍵「バートルテスト」とは](https://www.zeteoh.com/8-30-2020/) |
+|  [20/08/25] [Coursera Specialization "Architecting with Google Compute Engine"](https://yann-leguilly.gitlab.io/post/2020-08-24-coursera-specialization-architecting-with-gce/)     | [20/08/20] [DeepGMR: Learning Latent Gaussian Mixture Models for Registration](https://gitlab.com/zeteoh/ai-research-notes/-/issues/3) | [20/08/30] [ゲーミフィケーション成功の鍵「バートルテスト」とは](https://www.zeteoh.com/8-30-2020/) |
 | [20/01/21] [[Notes] nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation (Sep 2018)](https://yann-leguilly.gitlab.io/post/2020-01-21-nnunet/)      |  [20/08/19] [NASCaps: A Framework for Neural Architecture Search to Optimize the Accuracy and Hardware Efficiency of Convolutional Capsule Networks](https://gitlab.com/zeteoh/ai-research-notes/-/issues/1)   | [20/08/18] [ユーザーエンゲージメントを高めるには？ゲーミフィケーションの活用と4つの注意点](https://www.zeteoh.com/1-2/)   |
 | [20/04/26] [Semantic Segmentation with tf.data in TensorFlow 2 and ADE20K dataset](https://yann-leguilly.gitlab.io/post/2019-12-14-tensorflow-tfdata-segmentation/) |  [20/08/03][ Predicting What You Already Know Helps: Provable Self-Supervised Learning](https://gitlab.com/zeteoh/ai-research-notes/-/issues/2)    |     |
 
