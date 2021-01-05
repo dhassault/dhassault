@@ -1,13 +1,13 @@
 ### Hi, I'm Yann!
-🙇‍♂️ I'm Machine Learning Engineer🤖 in Tokyo🗼🇯🇵 and co-founder of [zeteoh](https://www.zeteoh.com/en-about-us/) ✅
+🙇‍♂️ I'm Machine Learning Engineer🤖 in Tokyo🗼🇯🇵 and co-founder of [zeteoh](https://www.zeteoh.com/) ✅
 
 💎 Our mission is to push AI to edge in order to make our environments and infrastructures smarter, safer and more efficient.  
 
-👉 Our first product, **zeteoh mobile sdk**[[ENG](https://www.zeteoh.com/en/) /[JPN](https://www.zeteoh.com/)] aims to enable **mobile game developers** 👩‍💻 to use **daily physical activities**🚵🏼‍♂️ in their games🕹 to increase their **users engagement**🏆. For that, it uses a tiny deep learning model directly deployed on user's smartphones that is able to recognize various types of physical activities with a high accuracy. 
+👉 Our first product, **zeteoh mobile sdk**[[JPN](https://www.zeteoh.com/)] aims to enable **mobile game developers** 👩‍💻 to use **daily physical activities**🚵🏼‍♂️ in their games🕹 to increase their **users engagement**🏆. For that, it uses a tiny deep learning model directly deployed on user's smartphones that is able to recognize various types of physical activities with a high accuracy. 
 
 🤔 Imagine a RPG🎮 on your phone📲, you would have to walk, climb stairs, run🏃‍♀️, etc, to increase your character's level💪! And running with your friends🏃🏽‍♂️🏃🏽‍♂️🏃‍♀️ would allow you to increase even faster📈 to clear a dungeons🦑 and be the best in your area🌇! A kind of PokemonGO but focused on daily physical activities instead of the map!
 
-👩‍💻You are **independent or amateur mobile game developer** and want to provide unique experience⁉️ Get a **free access to our solution**❗️ **Contact us** via our website: https://www.zeteoh.com/en/
+👩‍💻You are **independent or amateur mobile game developer** and want to provide unique experience⁉️ Get a **free access to our solution**❗️ **Contact us** via our website: https://www.zeteoh.com/
 
 🙋‍♂️ And follow me on twitter [@Yannlg_](https://twitter.com/Yannlg_) and [LinkedIn](https://www.linkedin.com/in/yann-leguilly/)!
 
