@@ -9,6 +9,6 @@
 
 👩‍💻 If you want to provide unique and engaging new experiences to your players, contact us via our website: [👉Contact Us👈](https://www.zeteoh.com/contact)
 
-👉 [zeteoh RISE](https://www.zeteoh.com/service-details-insur) enables insurance companies to create innovative service for their customers.
+👉 [zeteoh RISE](https://www.zeteoh.com/service-details-insur) enables insurance companies to create innovative services for their customers.
 
 🙋‍♂️ I'm also on [@Yannlg_](https://twitter.com/Yannlg_) and [LinkedIn](https://www.linkedin.com/in/yann-leguilly/)!
